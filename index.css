@@ -1,0 +1,47 @@
+:root {
+	--augmented-fourth : 1.414;
+	--double-octave		 : 4;
+	--fifth						 : 1.5;
+	--fourth					 : 1.333;
+	--golden					 : 1.618;
+	--major-eleventh	 : 2.667;
+	--major-second		 : 1.125;
+	--major-seventh		 : 1.875;
+	--major-sixth			 : 1.667;
+	--major-tenth			 : 2.5;
+	--major-third			 : 1.25;
+	--major-twelfth		 : 3;
+	--minor-second		 : 1.067;
+	--minor-seventh		 : 1.778;
+	--minor-sixth			 : 1.6;
+	--minor-third			 : 1.2;
+	--octave					 : 2;
+	--phi							 : 1.618;
+
+	--ms-6 : calc(var(--ms-5) / var(--ms-ratio));
+	--ms-5 : calc(var(--ms-4) / var(--ms-ratio));
+	--ms-4 : calc(var(--ms-3) / var(--ms-ratio));
+	--ms-3 : calc(var(--ms-2) / var(--ms-ratio));
+	--ms-2 : calc(var(--ms-1) / var(--ms-ratio));
+	--ms-1 : calc(var(--ms0) / var(--ms-ratio));
+	--ms0  : var(--ms-base);
+	--ms1  : calc(var(--ms-ratio) * var(--ms0));
+	--ms2  : calc(var(--ms-ratio) * var(--ms1));
+	--ms3  : calc(var(--ms-ratio) * var(--ms2));
+	--ms4  : calc(var(--ms-ratio) * var(--ms3));
+	--ms5  : calc(var(--ms-ratio) * var(--ms4));
+	--ms6  : calc(var(--ms-ratio) * var(--ms5));
+	--ms7  : calc(var(--ms-ratio) * var(--ms6));
+	--ms8  : calc(var(--ms-ratio) * var(--ms7));
+	--ms9  : calc(var(--ms-ratio) * var(--ms8));
+	--ms10 : calc(var(--ms-ratio) * var(--ms9));
+	--ms11 : calc(var(--ms-ratio) * var(--ms10));
+	--ms12 : calc(var(--ms-ratio) * var(--ms11));
+	--ms13 : calc(var(--ms-ratio) * var(--ms12));
+	--ms14 : calc(var(--ms-ratio) * var(--ms13));
+	--ms15 : calc(var(--ms-ratio) * var(--ms14));
+	--ms16 : calc(var(--ms-ratio) * var(--ms15));
+
+	--ms-ratio : var(--golden);
+	--ms-base  : 1em;
+}
