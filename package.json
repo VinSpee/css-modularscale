@@ -1,0 +1,33 @@
+{
+  "name": "css-modularscale",
+  "version": "0.1.0",
+  "description": "Modular scale calculator built into your CSS",
+  "main": "index.css",
+  "files": [
+    "index.css",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinSpee/css-modularscale.git"
+  },
+  "keywords": [
+    "css",
+    "modular",
+    "scale",
+    "scale",
+    "type",
+    "ratio",
+    "sizing",
+    "typography"
+  ],
+  "author": "Vince Speelman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VinSpee/css-modularscale/issues"
+  },
+  "homepage": "https://github.com/VinSpee/css-modularscale"
+}

@@ -42,24 +42,24 @@ By default, the variable `--ms-ratio` is set to `--golden`.
 
   <tr><th>Function</th><th>Ratio</th><th>Decimal value</th></tr>
 
-  <tr><td>$phi</td><td>1:1.618</td><td>1.618</td></tr>
-  <tr><td>$golden</td><td>1:1.618</td><td>1.618</td></tr>
-  <tr><td>$double-octave</td><td>1:4</td><td>4</td></tr>
-  <tr><td>$major-twelfth</td><td>1:3</td><td>3</td></tr>
-  <tr><td>$major-eleventh</td><td>3:8</td><td>2.667</td></tr>
-  <tr><td>$major-tenth</td><td>2:5</td><td>2.5</td></tr>
-  <tr><td>$octave</td><td>1:2</td><td>2</td></tr>
-  <tr><td>$major-seventh</td><td>8:15</td><td>1.875</td></tr>
-  <tr><td>$minor-seventh</td><td>9:16</td><td>1.778</td></tr>
-  <tr><td>$major-sixth</td><td>3:5</td><td>1.667</td></tr>
-  <tr><td>$minor-sixth</td><td>5:8</td><td>1.6</td></tr>
-  <tr><td>$fifth</td><td>2:3</td><td>1.5</td></tr>
-  <tr><td>$augmented-fourth</td><td>1:√2</td><td>1.414</td></tr>
-  <tr><td>$fourth</td><td>3:4</td><td>1.333</td></tr>
-  <tr><td>$major-third</td><td>4:5</td><td>1.25</td></tr>
-  <tr><td>$minor-third</td><td>5:6</td><td>1.2</td></tr>
-  <tr><td>$major-second</td><td>8:9</td><td>1.125</td></tr>
-  <tr><td>$minor-second</td><td>15:16</td><td>1.067</td></tr>
+  <tr><td>--phi</td><td>1:1.618</td><td>1.618</td></tr>
+  <tr><td>--golden</td><td>1:1.618</td><td>1.618</td></tr>
+  <tr><td>--double-octave</td><td>1:4</td><td>4</td></tr>
+  <tr><td>--major-twelfth</td><td>1:3</td><td>3</td></tr>
+  <tr><td>--major-eleventh</td><td>3:8</td><td>2.667</td></tr>
+  <tr><td>--major-tenth</td><td>2:5</td><td>2.5</td></tr>
+  <tr><td>--octave</td><td>1:2</td><td>2</td></tr>
+  <tr><td>--major-seventh</td><td>8:15</td><td>1.875</td></tr>
+  <tr><td>--minor-seventh</td><td>9:16</td><td>1.778</td></tr>
+  <tr><td>--major-sixth</td><td>3:5</td><td>1.667</td></tr>
+  <tr><td>--minor-sixth</td><td>5:8</td><td>1.6</td></tr>
+  <tr><td>--fifth</td><td>2:3</td><td>1.5</td></tr>
+  <tr><td>--augmented-fourth</td><td>1:√2</td><td>1.414</td></tr>
+  <tr><td>--fourth</td><td>3:4</td><td>1.333</td></tr>
+  <tr><td>--major-third</td><td>4:5</td><td>1.25</td></tr>
+  <tr><td>--minor-third</td><td>5:6</td><td>1.2</td></tr>
+  <tr><td>--major-second</td><td>8:9</td><td>1.125</td></tr>
+  <tr><td>--minor-second</td><td>15:16</td><td>1.067</td></tr>
 
 </table>
 

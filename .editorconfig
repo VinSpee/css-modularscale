@@ -12,3 +12,6 @@ insert_final_newline = false
 [*.{md,markdown}]
 # Allow <br/> from Markdown
 trim_trailing_whitespace = false
+
+[*.json]
+indent_style = spaces
