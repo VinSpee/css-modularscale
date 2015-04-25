@@ -43,5 +43,5 @@
 	--ms16 : calc(var(--ms-ratio) * var(--ms15));
 
 	--ms-ratio : var(--golden);
-	--ms-base  : 1em;
+	--ms-base  : 1rem;
 }
