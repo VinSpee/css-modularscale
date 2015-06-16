@@ -7,12 +7,12 @@ Ems work especially well with modular scales as their recursive properties mimic
 To get started, you need to select a ratio and a base value. The base value is usually your text font size or 1em. This base size paired with a ratio such as the golden ratio or any musical proportion will create your scale of values which all share this proportion.
 
 ## Install
-- `npm install css-modular-scale`
+- `npm install css-modularscale`
 - then, in your css:
-	`@import "css-modular-scale"`
+	`@import "css-modularscale"`
 
 ## Compatability
-`css-modular-scale` is created with future CSS syntax in mind. For more information about CSS variables and the spec, consult [The W3C's Working Draft on the topic](http://www.w3.org/TR/css-variables/).
+`css-modularscale` is created with future CSS syntax in mind. For more information about CSS variables and the spec, consult [The W3C's Working Draft on the topic](http://www.w3.org/TR/css-variables/).
 You can use any CSS "postprocessor" that has support for custom properties, such as [PostCSS](https://github.com/postcss) or [Rework](https://github.com/reworkcss/). If you want to get started fast, I recommend checking out the [CSSNext project](https://github.com/cssnext/cssnext).
 
 ## Usage
