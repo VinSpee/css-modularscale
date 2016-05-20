@@ -17,7 +17,7 @@ You can use any CSS "postprocessor" that has support for custom properties, such
 
 ## Usage
 
-Modular Scale has two default variables that you should place with your other site wide variables. `--ms-base` is usually your font size or `1em`. `--ms-ratio` is the factor of change between each number so if the ratio is `1.5` then each number in the sequence will be 1.5 times that of the previous number.
+Modular Scale has two default variables that you should place with your other site wide variables. `--ms-base` is usually your font size or `1rem`. `--ms-ratio` is the factor of change between each number so if the ratio is `1.5` then each number in the sequence will be 1.5 times that of the previous number.
 
 ```css
 :root {
