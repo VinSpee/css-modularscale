@@ -1,6 +1,6 @@
 {
   "name": "css-modularscale",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Modular scale calculator built into your CSS",
   "main": "index.css",
   "files": [
