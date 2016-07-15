@@ -18,16 +18,6 @@
 	--octave           : 2;
 	--phi              : 1.618;
 
-	--ms-10 : calc(var(--ms-9) / var(--ms-ratio));
-	--ms-9  : calc(var(--ms-8) / var(--ms-ratio));
-	--ms-8  : calc(var(--ms-7) / var(--ms-ratio));
-	--ms-7  : calc(var(--ms-6) / var(--ms-ratio));
-	--ms-6  : calc(var(--ms-5) / var(--ms-ratio));
-	--ms-5  : calc(var(--ms-4) / var(--ms-ratio));
-	--ms-4  : calc(var(--ms-3) / var(--ms-ratio));
-	--ms-3  : calc(var(--ms-2) / var(--ms-ratio));
-	--ms-2  : calc(var(--ms-1) / var(--ms-ratio));
-	--ms-1  : calc(var(--ms0) / var(--ms-ratio));
 	--ms0   : var(--ms-base);
 	--ms1   : calc(var(--ms-ratio) * var(--ms0));
 	--ms2   : calc(var(--ms-ratio) * var(--ms1));
@@ -45,6 +35,16 @@
 	--ms14  : calc(var(--ms-ratio) * var(--ms13));
 	--ms15  : calc(var(--ms-ratio) * var(--ms14));
 	--ms16  : calc(var(--ms-ratio) * var(--ms15));
+	--ms-1  : calc(var(--ms0) / var(--ms-ratio));
+	--ms-2  : calc(var(--ms-1) / var(--ms-ratio));
+	--ms-3  : calc(var(--ms-2) / var(--ms-ratio));
+	--ms-4  : calc(var(--ms-3) / var(--ms-ratio));
+	--ms-5  : calc(var(--ms-4) / var(--ms-ratio));
+	--ms-6  : calc(var(--ms-5) / var(--ms-ratio));
+	--ms-7  : calc(var(--ms-6) / var(--ms-ratio));
+	--ms-8  : calc(var(--ms-7) / var(--ms-ratio));
+	--ms-9  : calc(var(--ms-8) / var(--ms-ratio));
+	--ms-10 : calc(var(--ms-9) / var(--ms-ratio));
 
 	--ms-ratio : var(--golden);
 	--ms-base  : 1rem;
